@@ -19,7 +19,7 @@ Installation
 
     bash
 
-git clone https://github.com/Reskilling/AnimaTimer.git
+git clone https://github.com/Reskilling/AnimalTimer.git
 
 Navigate to the project directory:
 
