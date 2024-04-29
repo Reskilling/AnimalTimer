@@ -16,28 +16,19 @@ Requirements
 Installation
 
     Clone the repository:
-
-    bash
-
-git clone https://github.com/Reskilling/AnimalTimer.git
-
-Navigate to the project directory:
-
-bash
-
-cd AnimalTimer
+    git clone https://github.com/Reskilling/AnimalTimer.git
+    
+Navigate to the project directory
+    
+    cd AnimalTimer
 
 Install the required dependencies:
 
-bash
-
-    pip install -r requirements.txt
+    pip install pillow
+    pip install tkinter
 
 Usage
-
-    Run the application:
-
-    bash
+Run the application:
 
     python AnimalTimer.py
 
