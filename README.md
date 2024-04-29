@@ -20,7 +20,7 @@ Installation
     
 Navigate to the project directory
     
-    cd DogTimer
+    cd AnimalTimer
 
 Install the required dependencies:
 
