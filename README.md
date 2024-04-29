@@ -19,19 +19,19 @@ Installation
 
     bash
 
-git clone https://github.com/Reskilling/AnimalTimer.git
+git clone https://github.com/your-username/DogTimer.git
 
 Navigate to the project directory:
 
 bash
 
-cd AnimalTimer
+cd DogTimer
 
 Install the required dependencies:
 
 bash
 
-    pip install -r requirements.txt
+pip install -r requirements.txt
 
 Usage
 
