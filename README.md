@@ -16,28 +16,18 @@ Requirements
 Installation
 
     Clone the repository:
-
-    bash
-
-git clone https://github.com/your-username/DogTimer.git
-
-Navigate to the project directory:
-
-bash
-
-cd DogTimer
+    git clone https://github.com/Reskilling/AnimalTimer.git
+    
+Navigate to the project directory
+    
+    cd DogTimer
 
 Install the required dependencies:
 
-bash
-
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 Usage
-
-    Run the application:
-
-    bash
+Run the application:
 
     python AnimalTimer.py
 
