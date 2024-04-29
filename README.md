@@ -41,7 +41,7 @@ Run the application:
 
 Customization
 
-You can customize the application behavior by modifying the AppConfig class variables in main.py:
+You can customize the application behavior by modifying the AppConfig class variables in AnimalTimer.py:
 
     RESET_TIME_MORNING: Morning feeding reset time (default: 6:00 AM)
     RESET_TIME_EVENING: Evening feeding reset time (default: 4:30 PM)
