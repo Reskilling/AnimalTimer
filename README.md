@@ -1,6 +1,7 @@
 AnimalTimer App
 
 AnimalTimer is a Python desktop application built using Tkinter and PIL (Pillow) for managing feeding schedules for pets.
+
 Features
 
     Feeding Reminder: Notifies you when it's time to feed your pet.
