@@ -1,6 +1,6 @@
-DogTimer App
+AnimalTimer App
 
-DogTimer is a Python desktop application built using Tkinter and PIL (Pillow) for managing feeding schedules for pets.
+AnimalTimer is a Python desktop application built using Tkinter and PIL (Pillow) for managing feeding schedules for pets.
 Features
 
     Feeding Reminder: Notifies you when it's time to feed your pet.
@@ -25,7 +25,7 @@ Navigate to the project directory:
 
 bash
 
-cd DogTimer
+cd AnimalTimer
 
 Install the required dependencies:
 
@@ -39,7 +39,7 @@ Usage
 
     bash
 
-    python DogTimer.py
+    python AnimalTimer.py
 
     The application window will open, displaying the main interface.
 
