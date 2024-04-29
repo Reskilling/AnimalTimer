@@ -29,6 +29,7 @@ Install the required dependencies:
     pip install tkinter
 
 Usage
+
 Run the application:
 
     python AnimalTimer.py
@@ -38,6 +39,9 @@ Run the application:
     Click on the dog bowl icon to indicate that your pet has been fed.
 
     You can toggle fullscreen mode using the fullscreen button located at the top right corner.
+
+
+Alternatively you can download the AnimalTimer.exe I have provided.
 
 Customization
 
