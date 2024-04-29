@@ -7,7 +7,7 @@ import os
 
 if hasattr(sys, 'frozen'):
     ctypes.windll.user32.ShowWindow(ctypes.windll.kernel32.GetConsoleWindow(), 0)
-    ctypes.windll.kernel32.SetConsoleTitleW("Jake Timer")
+    ctypes.windll.kernel32.SetConsoleTitleW("DogTimer")
 
 class AppConfig:
     BACKGROUND_IMAGE_PATH = "background.png"
@@ -76,7 +76,7 @@ class JakeTimerApp:
         self.setup_gui()
 
     def setup_gui(self):
-        self.root.title("Jake Timer")
+        self.root.title("DogTimer")
 
         self.canvas = tk.Canvas(self.root, width=800, height=480, highlightthickness=0)
         self.canvas.pack()
