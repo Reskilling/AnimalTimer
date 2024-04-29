@@ -24,7 +24,8 @@ Navigate to the project directory
 
 Install the required dependencies:
 
-    pip install -r requirements.txt
+    pip install pillow
+    pip install tkinter
 
 Usage
 Run the application:
